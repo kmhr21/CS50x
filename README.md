@@ -1,6 +1,9 @@
 # CS50x
-Dieses Repository ist für Betriebe gedacht, bei denen ich mich für ein Praktikum bewerbe. Hier zeige ich, was ich bisher gelernt habe und woran ich aktuell arbeite. Die Projekte stammen aus dem CS50x-Kurs und sind unabhängige Arbeiten außerhalb meiner Umschulung.
-Staring off with CS50 Introduction to Computer Science.
+## Introduction to Computer Science
+
+**Dieses Repository ist für Betriebe gedacht, bei denen ich mich für ein Praktikum bewerbe. Hier zeige ich, was ich bisher gelernt habe und woran ich aktuell arbeite. Die Projekte stammen aus dem CS50x-Kurs und sind unabhängige Arbeiten außerhalb meiner Umschulung.
+Staring off with CS50 Introduction to Computer Science.**
+
 Total 11 Weeks.
 
 ---
@@ -21,6 +24,7 @@ It’s time to choose your own adventure! Your assignment, quite simply, is to i
 
 ## Week 1: C
 ### Problem set: 
+
 1- "Hello, It's Me": in a file called hello.c, in a folder called world, implement a program in C that prints hello, world\n, and that’s it!
 2- "Mario less comfortable":In a file called mario.c in a folder called mario-less, implement a program in C that recreates that pyramid, using hashes (#) for bricks.
 
@@ -28,6 +32,7 @@ It’s time to choose your own adventure! Your assignment, quite simply, is to i
 
 ## Week 2: Arrays
 ### Problem set: 
+
 1-"Scrabble" :In a file called scrabble.c in a folder called scrabble, implement a program in C that determines the winner of a short Scrabble-like game. Your program should prompt for input twice: once for “Player 1” to input their word and once for “Player 2” to input their word. Then, depending on which player scores the most points, your program should either print “Player 1 wins!”, “Player 2 wins!”, or “Tie!” 
 2-"Readability": In a file called readability.c in a folder called readability, you’ll implement a program that calculates the approximate grade level needed to comprehend some text. Your program should print as output “Grade X” where “X” is the grade level computed, rounded to the nearest integer. If the grade level is 16 or higher (equivalent to or greater than a senior undergraduate reading level), your program should output “Grade 16+” instead of giving the exact index number. If the grade level is less than 1, your program should output “Before Grade 1”.
 3-"Caesar": In a file called caesar.c in a folder called caesar, write a program that enables you to encrypt messages using Caesar’s cipher. At the time the user executes the program, they should decide, by providing a command-line argument, what the key should be in the secret message they’ll provide at runtime. We shouldn’t necessarily assume that the user’s key is going to be a number; though you may assume that, if it is a number, it will be a positive integer.
@@ -36,6 +41,8 @@ It’s time to choose your own adventure! Your assignment, quite simply, is to i
 
 ## Week 3: Algorithms
 ### Problem set: 
+
+
 
 
 
